@@ -18,6 +18,7 @@
 		1EC49C3F2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C3E2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift */; };
 		1EC49C412B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */; };
 		1EC49C432B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */; };
+		1EC49C452B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		1EC49C3E2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseImagesAndOtherViewsAsABackgrounds.swift; sourceTree = "<group>"; };
 		1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDisplaySolidShapes.swift; sourceTree = "<group>"; };
 		1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToFillAndStrokeShapesAtTheSameTime.swift; sourceTree = "<group>"; };
+		1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDrawPartOfASolidShpateUsingTrim.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				1EC49C3E2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift */,
 				1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */,
 				1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */,
+				1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */,
 				1EC49C2C2B137A6C003ACA02 /* Assets.xcassets */,
 				1EC49C2E2B137A6C003ACA02 /* Preview Content */,
 			);
@@ -165,6 +168,7 @@
 				1EC49C3F2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift in Sources */,
 				1EC49C3D2B139864003ACA02 /* HowToRenderAGradient.swift in Sources */,
 				1EC49C3B2B13916A003ACA02 /* HowToRenderImagesUsingSFSymbols.swift in Sources */,
+				1EC49C452B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift in Sources */,
 				1EC49C412B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift in Sources */,
 				1EC49C372B1386C7003ACA02 /* HowToAdjustTheWayAnImageIsFittedToItsSpace.swift in Sources */,
 			);
