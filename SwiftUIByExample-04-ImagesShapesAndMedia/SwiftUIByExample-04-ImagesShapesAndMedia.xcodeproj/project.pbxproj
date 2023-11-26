@@ -19,6 +19,7 @@
 		1EC49C412B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */; };
 		1EC49C432B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */; };
 		1EC49C452B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */; };
+		1EC49C472B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDisplaySolidShapes.swift; sourceTree = "<group>"; };
 		1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToFillAndStrokeShapesAtTheSameTime.swift; sourceTree = "<group>"; };
 		1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDrawPartOfASolidShpateUsingTrim.swift; sourceTree = "<group>"; };
+		1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToPlayMoviesWithVideoPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				1EC49C402B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift */,
 				1EC49C422B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift */,
 				1EC49C442B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift */,
+				1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */,
 				1EC49C2C2B137A6C003ACA02 /* Assets.xcassets */,
 				1EC49C2E2B137A6C003ACA02 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 			files = (
 				1EC49C2B2B137A6B003ACA02 /* HowToDrawImagesUsingImageViews.swift in Sources */,
 				1EC49C292B137A6B003ACA02 /* SwiftUIByExample_04_ImagesShapesAndMediaApp.swift in Sources */,
+				1EC49C472B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift in Sources */,
 				1EC49C392B138B05003ACA02 /* HowToTileAnImage.swift in Sources */,
 				1EC49C432B13B1CA003ACA02 /* HowToFillAndStrokeShapesAtTheSameTime.swift in Sources */,
 				1EC49C3F2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift in Sources */,

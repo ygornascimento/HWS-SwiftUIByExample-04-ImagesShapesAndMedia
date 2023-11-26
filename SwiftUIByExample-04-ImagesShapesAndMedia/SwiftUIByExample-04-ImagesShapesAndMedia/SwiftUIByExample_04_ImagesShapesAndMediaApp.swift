@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIByExample_04_ImagesShapesAndMediaApp: App {
     var body: some Scene {
         WindowGroup {
-            HowToDrawImagesUsingImageViews()
+            HowToPlayMoviesWithVideoPlayer()
         }
     }
 }
