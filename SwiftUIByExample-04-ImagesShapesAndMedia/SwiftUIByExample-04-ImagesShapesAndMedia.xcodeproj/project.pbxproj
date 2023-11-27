@@ -22,6 +22,7 @@
 		1EC49C472B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */; };
 		1EC49C492B13D2F9003ACA02 /* HowToIntegrateSpriteKitUsingSpriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C482B13D2F9003ACA02 /* HowToIntegrateSpriteKitUsingSpriteView.swift */; };
 		1EC49C4B2B13D541003ACA02 /* HowToLoadARemoteImageFromURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C4A2B13D541003ACA02 /* HowToLoadARemoteImageFromURL.swift */; };
+		1EC49C4D2B13FDE2003ACA02 /* HowToGetCustomColorsAndTransparencyWithSFSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C4C2B13FDE1003ACA02 /* HowToGetCustomColorsAndTransparencyWithSFSymbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToPlayMoviesWithVideoPlayer.swift; sourceTree = "<group>"; };
 		1EC49C482B13D2F9003ACA02 /* HowToIntegrateSpriteKitUsingSpriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToIntegrateSpriteKitUsingSpriteView.swift; sourceTree = "<group>"; };
 		1EC49C4A2B13D541003ACA02 /* HowToLoadARemoteImageFromURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToLoadARemoteImageFromURL.swift; sourceTree = "<group>"; };
+		1EC49C4C2B13FDE1003ACA02 /* HowToGetCustomColorsAndTransparencyWithSFSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToGetCustomColorsAndTransparencyWithSFSymbols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				1EC49C462B13BA51003ACA02 /* HowToPlayMoviesWithVideoPlayer.swift */,
 				1EC49C482B13D2F9003ACA02 /* HowToIntegrateSpriteKitUsingSpriteView.swift */,
 				1EC49C4A2B13D541003ACA02 /* HowToLoadARemoteImageFromURL.swift */,
+				1EC49C4C2B13FDE1003ACA02 /* HowToGetCustomColorsAndTransparencyWithSFSymbols.swift */,
 				1EC49C2C2B137A6C003ACA02 /* Assets.xcassets */,
 				1EC49C2E2B137A6C003ACA02 /* Preview Content */,
 			);
@@ -180,6 +183,7 @@
 				1EC49C3F2B13ACA4003ACA02 /* HowToUseImagesAndOtherViewsAsABackgrounds.swift in Sources */,
 				1EC49C3D2B139864003ACA02 /* HowToRenderAGradient.swift in Sources */,
 				1EC49C3B2B13916A003ACA02 /* HowToRenderImagesUsingSFSymbols.swift in Sources */,
+				1EC49C4D2B13FDE2003ACA02 /* HowToGetCustomColorsAndTransparencyWithSFSymbols.swift in Sources */,
 				1EC49C452B13B4D9003ACA02 /* HowToDrawPartOfASolidShpateUsingTrim.swift in Sources */,
 				1EC49C412B13AFDB003ACA02 /* HowToDisplaySolidShapes.swift in Sources */,
 				1EC49C372B1386C7003ACA02 /* HowToAdjustTheWayAnImageIsFittedToItsSpace.swift in Sources */,
